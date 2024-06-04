@@ -1,1 +1,1 @@
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react&perline=4)](https://skillicons.dev)
